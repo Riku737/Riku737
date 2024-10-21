@@ -1,6 +1,6 @@
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 🏫 Software Engineering Student at the University of Ottawa.
+- 🏫 Who I am: Software Engineering Student at the University of Ottawa.
 - 🗣️ Languages I speak: Python, HTML, CSS, JavaScript, and Java.
 - ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
 
