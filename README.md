@@ -2,9 +2,13 @@
 
 - 🏫 Who am I: Software Engineering Student at the University of Ottawa.
 - 🗣️ Languages I speak: Python, HTML, CSS, and JavaScript.
-- 🗣️ Tools I'm skilled with: GitHub, Git, Figma, Adobe XD, and Trello.
+- 🔨 Tools I'm skilled with: GitHub, Git, Figma, Adobe XD, and Trello.
 - 🌱 Areas of interest: Web design and development, and software engineering. 
 - ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,github)](https://skillicons.dev)
 
 <h2>Projects I'm currently working on</h2>
 
