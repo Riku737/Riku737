@@ -1,10 +1,11 @@
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 🏫 Who I am: Software Engineering Student at the University of Ottawa.
-- 🗣️ Languages I speak: Python, HTML, CSS, JavaScript, and Java.
+- 🏫 Who am I: Software Engineering Student at the University of Ottawa.
+- 🗣️ Languages I speak: Python, HTML, CSS, JavaScript.
+- 🌱 Areas of interest: Web design and development, and software engineering. 
 - ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
 
-<h2>Projects I'm currently working on:</h2>
+<h2>Projects I'm currently working on</h2>
 
 - [Harmony](https://harmaniacz.github.io)
 
