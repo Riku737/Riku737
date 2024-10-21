@@ -2,9 +2,9 @@
 
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 👀 I’m interested in front-end development and back-end development
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, and Java
-- ⚡ Fun fact: I'm obsessed with computers, business, and design
+- 👀 My specialization: front-end development and back-end development.
+- 🌱 Languages I speak: Python, HTML, CSS, JavaScript, and Java.
+- ⚡ Fun fact about me: I didn't take the photo featured in my banner.
 
 <!---
 Riku737/Riku737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
