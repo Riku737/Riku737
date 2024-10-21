@@ -1,10 +1,8 @@
-![GitHub Banner](https://github.com/user-attachments/assets/0a186fc8-69a3-484d-84f4-7b44e40d0f09)
-
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 👀 My specialization: front-end development and back-end development.
-- 🌱 Languages I speak: Python, HTML, CSS, JavaScript, and Java.
-- ⚡ Fun fact about me: I didn't take the photo featured in my banner.
+- 🏫 Software Engineering Student at the University of Ottawa.
+- 🗣️ Languages I speak: Python, HTML, CSS, JavaScript, and Java.
+- ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
 
 <h2>Projects I'm currently working on:</h2>
 
