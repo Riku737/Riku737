@@ -6,7 +6,7 @@
 - 🌱 Languages I speak: Python, HTML, CSS, JavaScript, and Java.
 - ⚡ Fun fact about me: I didn't take the photo featured in my banner.
 
-  <h2>Projects I'm currently working on:</h2>
+<h2>Projects I'm currently working on:</h2>
 
 - [Harmony](https://harmaniacz.github.io)
 
