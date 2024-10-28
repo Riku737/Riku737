@@ -6,7 +6,7 @@
 - 🌱 Areas of interest: Web design, web development, and software engineering. 
 - ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
 
-<hr>
+<h2>Languages and tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,github)](https://skillicons.dev)
 
