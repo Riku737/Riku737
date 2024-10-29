@@ -1,7 +1,7 @@
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 🏫 Who am I: Software Engineering Student at the University of Ottawa.
-- 🗣️ Languages I speak: Python, HTML, CSS, and JavaScript.
+- 🏫 Who am I: **Software Engineering Student** at the University of Ottawa.
+- 🗣️ Languages I write: **Python, HTML, CSS, and JavaScript.**
 - 🔨 Tools I'm skilled with: GitHub, Git, Figma, Adobe XD, and Trello.
 - 🌱 Areas of interest: Web design, web development, and software engineering. 
 - ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
