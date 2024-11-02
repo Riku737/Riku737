@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/0a287e94-4b37-4cee-9ca4-f2b932a5481d" width="100%">
+
+
 <h1>👋 Hi  there, I'm Riki</h1>
 
 - 🏫 Who am I: **Software Engineering Student** at the University of Ottawa.
