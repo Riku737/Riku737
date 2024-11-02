@@ -3,11 +3,11 @@
 
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 🏫 Who am I: **Software Engineering Student** at the University of Ottawa.
-- 🗣️ Languages I write: **Python, HTML, CSS, and JavaScript.**
-- 🔨 Tools I'm skilled with: GitHub, Git, Figma, Adobe XD, and Trello.
-- 🌱 Areas of interest: Web design, web development, and software engineering. 
-- ⚡ Fun fact about me: I didn't take the photo featured in my profile picture.
+- 🏫 **Who Am I:** I am a **Software Engineering Student** at the University of Ottawa.  
+- 🗣️ **Languages I Use:** I write in **Python, HTML, CSS, and JavaScript.**  
+- 🔨 **Tools I’m Proficient In:** I am skilled with **GitHub, Git, Figma, Adobe XD, and Trello**.  
+- 🌱 **Areas of Interest:** My interests include web design, web development, and software engineering.  
+- ⚡ **Fun Fact About Me:** I did not take the photo featured in my profile picture.
 
 <h2>Languages and tools</h2>
 
@@ -15,7 +15,7 @@
 
 <h2>Projects I'm currently working on</h2>
 
-- [Harmony](https://harmaniacz.github.io)
+- [Harmony](https://harmaniacz.github.io)  |  Social app that matches you with new friends based on your music preferences.
 
 <hr>
 
