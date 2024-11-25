@@ -19,7 +19,7 @@
 
 <h2>Past projects</h2>
 
-- [Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io)  |  Social app that matches you with new friends based on your music preferences.
+- [Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io) (Sep 2024 - Nov 2024)  |  Social app that matches you with new friends based on your music preferences.
 
 <hr>
 
