@@ -9,13 +9,17 @@
 - 🌱 **Areas of Interest:** My interests include web design, web development, and software engineering.  
 - ⚡ **Fun Fact About Me:** I did not take the photo featured in my profile picture.
 
-<h2>Languages and tools</h2>
+<h2>Languages and technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,github)](https://skillicons.dev)
 
-<h2>Projects I'm currently working on</h2>
+<h2>Projects in progress</h2>
 
-- [Harmony](https://harmaniacz.github.io)  |  Social app that matches you with new friends based on your music preferences.
+- [Personal website](https://github.com/Riku737/portfolio)  |  Website showcasing my skills and projects.
+
+<h2>Past projects</h2>
+
+- [Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io)  |  Social app that matches you with new friends based on your music preferences.
 
 <hr>
 
