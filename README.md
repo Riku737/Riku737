@@ -15,7 +15,7 @@
 
 <h2>Projects in progress</h2>
 
-- [Personal website](https://github.com/Riku737/portfolio)  |  Website showcasing my skills and projects.
+- [Personal website](https://github.com/Riku737/portfolio) (Nov 2024 - Present) |  Website showcasing my skills and projects.
 
 <h2>Past projects</h2>
 
