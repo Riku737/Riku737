@@ -23,9 +23,15 @@
 
 <hr>
 
-![riku737's Stats](https://github-readme-stats.vercel.app/api?username=riku737&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![riku737's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku737&theme=tokyonight&hide_border=true)
-![riku737's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku737&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div>
+  ![riku737's Stats](https://github-readme-stats.vercel.app/api?username=riku737&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</div>
+<div>
+  ![riku737's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku737&theme=tokyonight&hide_border=true)
+</div>
+<div>
+  ![riku737's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku737&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 <!---
 Riku737/Riku737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
