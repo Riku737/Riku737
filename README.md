@@ -5,11 +5,11 @@
 
 - 🏫 **Who Am I:** I am a **Software Engineering Student** at the University of Ottawa.  
 - 🗣️ **Languages I Use:** I write in **Python, HTML, CSS, and JavaScript.**  
-- 🔨 **Tools I’m Proficient In:** I am skilled with **GitHub, Git, Figma, Adobe XD, and Trello**.  
+- 🔨 **Tools I’m Proficient In:** I am skilled with **GitHub, Git, Figma, Adobe XD, and Trello**.
 - 🌱 **Areas of Interest:** My interests include web design, web development, and software engineering.  
-- ⚡ **Fun Fact About Me:** I did not take the photo featured in my profile picture.
+- ⚡ **Fun Fact About Me:** I think I am funny.
 
-<h2>Languages and technologies</h2>
+<h2>Languages and tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,github)](https://skillicons.dev)
 
