@@ -11,7 +11,7 @@
 
 <h2>Languages and tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,bootstrap,windows,notion)](https://skillicons.dev)
 
 <h2>Projects in progress</h2>
 
