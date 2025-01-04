@@ -10,7 +10,8 @@
 
 <h2>Languages and tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,bootstrap,windows,notion)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,bootstrap,windows,notion)](https://skillicons.dev)-->
+![Skills](https://skills-icons.vercel.app/api/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,bootstrap,windows,notion,gsap)
 
 <h2>Projects</h2>
 
