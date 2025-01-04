@@ -12,13 +12,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,vscode,xd,arduino,git,bootstrap,windows,notion)](https://skillicons.dev)
 
-<h2>Projects in progress</h2>
+<h2>Projects</h2>
 
 - [Personal website](https://github.com/Riku737/riku737.github.io) (Nov 2024 - Present) |  Website portfolio developed using HTML, CSS, and JavaScript.
 - [Simple calculator](https://github.com/Riku737/calculator) (Jan 2025 - Present) |  Web-based calculator built using Bootstrap.
-
-<h2>Past projects</h2>
-
 - [Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io) (Sep 2024 - Nov 2024)  |  Marketing website for startup company "Harmony," built with HTML, CSS, JavaScript, and Git.
 
 <hr>
