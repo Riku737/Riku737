@@ -3,11 +3,10 @@
 
 <h1>👋 Hi  there, I'm Riki</h1>
 
-- 🏫 **Who Am I:** I am a **Software Engineering Student** at the University of Ottawa.  
-- 🗣️ **Languages I Use:** I write in **Python, HTML, CSS, and JavaScript.**  
-- 🔨 **Tools I’m Proficient In:** I am skilled with **GitHub, Git, Figma, Adobe XD, and Trello**.
-- 🌱 **Areas of Interest:** My interests include web design, web development, and software engineering.  
-- ⚡ **Fun Fact About Me:** I think I am funny.
+- 🏫 I'm a **Software Engineering Student** at the University of Ottawa.  
+- 🗣️ Trained in **Python, HTML, CSS, and JavaScript.**  
+- 🔨 Skilled with **GitHub, Git, Figma, Adobe XD, and Trello**.
+- 🌱 Interested in classical music, **web design, web development, and software engineering.** 
 
 <h2>Languages and tools</h2>
 
