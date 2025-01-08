@@ -11,7 +11,7 @@
 
 <h2>Technical skills</h2>
 
-<img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,bootstrap,gsap,=git,vscode,figma,xd,canva,arduino,windows,chatgpt,notion" alt="riku737's skill Icons">
+<img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,bootstrap,gsap,=git,vscode,figma,xd,canva,arduino,windows,chatgpt,notion,cloudflare" alt="riku737's skill Icons">
 
 <h2>Projects</h2>
 
