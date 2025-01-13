@@ -11,14 +11,15 @@
 
 <h2>Technical skills</h2>
 
-<img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,bootstrap,gsap,=git,vscode,figma,xd,canva,arduino,windows,chatgpt,notion,cloudflare" alt="riku737's skill Icons">
+<img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,bootstrap,gsap" alt="riku737's skill Icons">
+<img src="https://skills-icons.vercel.app/api/icons?i=git,vscode,figma,xd,canva,arduino,windows,chatgpt,notion,cloudflare" alt="riku737's skill Icons">
 
 <h2>Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/Riku737/riku737.github.io" target="_blank">Personal website</a> (Nov 2024 - Present) |  Website portfolio developed using HTML, CSS, and JavaScript.</li>
-  <li><a href="https://github.com/Riku737/calculator" target="_blank">Simple calculator</a> (Jan 2025 - Present) |  Web-based calculator built using Bootstrap.</li>
-  <li><a href="https://github.com/Harmaniacz/Harmaniacz.github.io" target="_blank">Harmony</a> (Sep 2024 - Nov 2024)  |  Marketing website for startup company "Harmony," built with HTML, CSS, JavaScript, and Git.</li>
+  <li><a href="https://github.com/Riku737/riku737.github.io" target="_blank">Personal website</a> (November 2024 - January 2024) |  Website portfolio to showcase skills.</li>
+  <li><a href="https://github.com/Riku737/calculator" target="_blank">Simple calculator</a> (January 2025 - Present) |  Web-based calculator for simple math.</li>
+  <li><a href="https://github.com/Harmaniacz/Harmaniacz.github.io" target="_blank">Harmony</a> (September 2024 - November 2024)  |  Marketing website for startup company "Harmony."</li>
 </ul>
 
 <hr>
