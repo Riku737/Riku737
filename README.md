@@ -4,7 +4,7 @@
 
 <ul>
   <li>🏫 <b>Software engineering undergraduate (BASc)</b> at the University of Ottawa.</li>
-  <li>🗣️ Proficient in <b>Python, HTML, CSS, and JavaScript</b>, familliar with <b>PHP</b></li>
+  <li>🗣️ Proficient in <b>Python, HTML, CSS, and JavaScript</b>, familliar with <b>PHP</b>.</li>
   <li>🔨 Skilled with <b>GSAP, Git, Figma, and Trello</b>.</li>
   <li>🌱 Interested in classical music, <b>web design, web development, and software engineering.</b></li>
 </ul>
