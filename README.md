@@ -15,29 +15,28 @@
   <tr>
     <th align="left">Programming languages</th>
     <td>
-      <img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,php" alt="riku737's skill Icons">
+      <img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,python,php" alt="riku737's language skill Icons">
     </td>
   </tr>
   <tr>
     <th align="left">Frameworks & libraries</th>
     <td>
-      <img src="https://skills-icons.vercel.app/api/icons?i=bootstrap,gsap" alt="riku737's skill Icons">
+      <img src="https://skills-icons.vercel.app/api/icons?i=bootstrap,gsap" alt="riku737's framework skill Icons">
     </td>
   </tr>
   <tr>
     <th align="left">Technologies</th>
     <td>
-      <img src="https://skills-icons.vercel.app/api/icons?i=git,arduino,windows,cloudflare,wp" alt="riku737's skill Icons">
+      <img src="https://skills-icons.vercel.app/api/icons?i=git,arduino,windows,cloudflare,wp" alt="riku737's technology skill Icons">
     </td>
   </tr>
   <tr>
     <th align="left">Tools</th>
     <td>
-      <img src="https://skills-icons.vercel.app/api/icons?i=vscode,figma,xd,canva,notion" alt="riku737's skill Icons">
+      <img src="https://skills-icons.vercel.app/api/icons?i=vscode,figma,xd,canva,notion" alt="riku737's tool skill Icons">
     </td>
   </tr>
 </table>
-
 
 <!--
 <h2>Projects</h2>
@@ -52,16 +51,16 @@
 <h2>GitHub statistics</h2>
 <table>
   <tr>
-      <td>
+    <td>
     <img alt="riku737's Stats" src="https://github-readme-stats.vercel.app/api?username=riku737&theme=react&show_icons=true&hide_border=true&count_private=true">
-  </td>
-      <td>
+    </td>
+    <td>
       <img alt="riku737's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=riku737&theme=react&hide_border=true">
-  </td>
+    </td>
   </tr>
   <tr>
       <td>
       <img alt="riku737's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riku737&theme=react&show_icons=true&hide_border=true&layout=compact">
-  </td>
+    </td>
   </tr>
 </table>
