@@ -15,7 +15,7 @@
   <tr>
     <th align="left">Programming languages</th>
     <td>
-      <img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,java,python,php" alt="riku737's language skill Icons">
+      <img src="https://skills-icons.vercel.app/api/icons?i=js,html,css,java,python,php,mysql" alt="riku737's language skill Icons">
     </td>
   </tr>
   <tr>
