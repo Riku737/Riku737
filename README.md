@@ -4,12 +4,12 @@
 
 <ul>
   <li>🏫 <b>Software engineering undergraduate (BASc)</b> at the University of Ottawa.</li>
-  <li>🗣️ Proficient in <b>Python, HTML, CSS, and JavaScript</b>, familliar with <b>PHP</b>.</li>
+  <li>🗣️ Proficient in <b>Python, Java, HTML, CSS, and JavaScript, PHP, and mySQL</b>.</li>
   <li>🔨 Skilled with <b>GSAP, Git, Figma, and Trello</b>.</li>
   <li>🌱 Interested in classical music, <b>web design, web development, and software engineering.</b></li>
 </ul>
 
-<h2>Technical skills</h2>
+<!--<h2>Technical skills</h2>
 
 <table width="100%">
   <tr>
@@ -36,7 +36,7 @@
       <img src="https://skills-icons.vercel.app/api/icons?i=vscode,figma,xd,canva,notion" alt="riku737's tool skill Icons">
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--
 <h2>Projects</h2>
