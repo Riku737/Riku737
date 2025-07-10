@@ -3,7 +3,7 @@
 
 <p>Hi, my name is Riki, and I'm a Software Engineering student at uOttawa, focused on full-stack development. I am a tech-savvy and aspiring software engineer in training, with a background in design, marketing, and management.</p>
 
-<p>I'm currently maintaining a personal website to showcase my skills and developing a content management system. On the side, I am learning WordPress, mySQL, PHP, and React.</p>
+<p>I'm actively maintaining a personal website to showcase my skills and developing a content management system. On the side, I am learning WordPress, mySQL, PHP, and React.</p>
 
 <p>I volunteer as a Communications Advisor with the uOttawa Software Engineering Student Association (SESA). Previously, I served as the elected Communications Lead for SESA. I have also worked as a Youth Program Coordinator, Assistant Band Director, and Social Media Designer.</p>
 
