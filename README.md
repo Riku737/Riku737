@@ -25,6 +25,15 @@
   <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </div>
+<h3>Technologies</h3>
+<div>
+  <img src="https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</div>
 <h3>Tools</h3>
 <div>
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
